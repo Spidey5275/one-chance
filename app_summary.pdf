@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2538 >>
+stream
+0.12 0.16 0.20 rg
+BT /F1 20 Tf 1 0 0 1 50 800 Tm (App Summary) Tj ET
+BT /F1 9 Tf 1 0 0 1 50 784 Tm (Repo evidence source: C:\\Users\\Lenovo\\Documents\\New project) Tj ET
+BT /F1 9 Tf 1 0 0 1 50 772 Tm (Generated on 2026-03-19) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 742 Tm (WHAT IT IS) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 726 Tm (This workspace contains no application source files, configuration, documentation, or assets.) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 712 Tm (Based on current repo evidence, the app itself is Not found in repo.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 686 Tm (WHO IT'S FOR) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 670 Tm (Primary user/persona: Not found in repo.) Tj ET
+BT /F1 10 Tf 1 0 0 1 50 656 Tm (No README, product brief, UI copy, or requirements were present to identify a target user.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 630 Tm (WHAT IT DOES) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 614 Tm (- Application purpose: Not found in repo) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 600 Tm (- User-facing features: Not found in repo) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 586 Tm (- Backend or API capabilities: Not found in repo) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 572 Tm (- Data model or storage behavior: Not found in repo) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 558 Tm (- Authentication or permissions: Not found in repo) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 544 Tm (- Integrations or third-party services: Not found in repo) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 516 Tm (HOW IT WORKS) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 500 Tm (- Observed component: repository root only) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 486 Tm (- Observed contents: no files and no subfolders) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 472 Tm (- No README, package manifest, source tree, build config, or deployment files found) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 458 Tm (- Architecture, services, and data flow: Not found in repo) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 430 Tm (HOW TO RUN) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 414 Tm (1. Open C:\\Users\\Lenovo\\Documents\\New project) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 400 Tm (2. Inspect the repo contents) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 386 Tm (3. Current result: no runnable app files were found, so startup steps are Not found in repo.) Tj ET
+BT /F1 12 Tf 1 0 0 1 50 358 Tm (EVIDENCE CHECKED) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 342 Tm (- Root directory listing showed only . and ..) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 328 Tm (- No repository files were available to infer stack, runtime, or behavior) Tj ET
+BT /F1 10 Tf 1 0 0 1 58 314 Tm (- Summary intentionally avoids assumptions beyond those observations) Tj ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002831 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2901
+%%EOF
